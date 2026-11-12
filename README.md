@@ -1,14 +1,10 @@
-﻿# 🚗 Tesla Landing Page Clone
+# 🚀 tesla-landing-page-clone
 
-A modern, responsive clone of the Tesla landing page built with pure HTML5, CSS3, and JavaScript.
+Project by **spghimire** | Official Website: [spghimire.com.np](https://spghimire.com.np)
 
-## 🌐 Live Demo
-👉 **[View Live Website](https://codebymanish26.github.io/tesla-landing-page-clone/)**
-
-## 🛠️ Built With
-- **HTML5** - Semantic markup
-- **CSS3** - Responsive layouts and smooth styling
-- **JavaScript** - Dynamic interactions
+## 🌐 Official Links
+* 🔗 **Personal Website:** [https://spghimire.com.np](https://spghimire.com.np)
+* 💻 **Developer:** spghimire
 
 ---
-*Created by [CodeByManish](https://github.com/Codebymanish26)*
+*Curated & developed by [spghimire](https://spghimire.com.np)*
